@@ -1,6 +1,6 @@
 # Rapier Physics Lab — Design System
 
-The UI is an **instrument panel around a viewport**, not a decorated demo. Users are
+The UI is an **instrument panel around a viewport**, not a decorated showcase. Users are
 here to run experiments: change a parameter, replay, read the numbers. Every design
 decision serves scan-speed and trust in the data.
 
