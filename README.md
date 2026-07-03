@@ -6,7 +6,7 @@ Rapier WASM, Three.js, React를 붙여서 만든 프로젝트이고, 단순히 �
 
 ## 영상
 
-<video src="https://github.com/Merchantlee99/rapier-physics-lab/raw/main/assets/rapier-physics-lab.mp4" controls width="100%" playsinline></video>
+![Rapier Physics Lab](./assets/rapier-physics-lab.gif)
 
 ## 왜 만들었나
 
